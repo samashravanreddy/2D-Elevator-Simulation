@@ -16,6 +16,7 @@ How It Works:
 2. The ElevatorManager finds the nearest elevator.
 3. Elevator moves smoothly to the requested floor.
 4. User presses LIFT button to move elevator to target floor.
+5. The Elevator stops on Floor for 2 seconds.
 5. Elevator display updates floor and direction.
 
 Technologies Used:
